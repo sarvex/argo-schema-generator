@@ -127,7 +127,7 @@ require (
 	k8s.io/klog/v2 v2.100.1 // indirect
 	k8s.io/kube-aggregator v0.24.2 // indirect
 	k8s.io/kubectl v0.24.3 // indirect
-	k8s.io/kubernetes v1.24.2 // indirect
+	k8s.io/kubernetes v1.24.15 // indirect
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/kustomize/api v0.11.5 // indirect
